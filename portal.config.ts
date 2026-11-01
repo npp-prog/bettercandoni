@@ -22,7 +22,7 @@ export default defineConfig({
   kind: 'municipality',
   name: 'Municipality of Candoni, Negros Occidental',
   shortName: 'Candoni',
-  operator: { name: 'MGO Candoni Accounting' },
+  operator: { name: 'MGO Candoni' },
   // Where this portal is deployed (for link previews).
   siteUrl: 'https://bettercandoni.netlify.app',
   scope: {
