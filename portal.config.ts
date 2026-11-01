@@ -24,7 +24,7 @@ export default defineConfig({
   shortName: 'Candoni',
   operator: { name: 'MGO Candoni' },
   // Where this portal is deployed (for link previews).
-  siteUrl: 'https://bettercandoni.netlify.app',
+  siteUrl: 'https://bettercandoni.mgocandoni.com',
   scope: {
     places: [{ label: 'Candoni', q: 'Candoni' }],
     // Candoni is in the 6th legislative district of Negros Occidental.
