@@ -23,8 +23,8 @@ export default defineConfig({
   name: 'Municipality of Candoni, Negros Occidental',
   shortName: 'Candoni',
   operator: { name: 'MGO Candoni Accounting' },
-  // Set this to the deployed URL (for link previews), e.g. https://bettercandoni.<account>.workers.dev
-  // siteUrl: '',
+  // Where this portal is deployed (for link previews).
+  siteUrl: 'https://bettercandoni.netlify.app',
   scope: {
     places: [{ label: 'Candoni', q: 'Candoni' }],
     // Candoni is in the 6th legislative district of Negros Occidental.
